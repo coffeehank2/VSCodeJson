@@ -10,5 +10,9 @@ VSCode :
 2. C/C++ Clang Command Adapter 
 3. Code Runner
 
+suggest :
+1. Colonize
+2. C++ lntellisense
+3. Ctrl + Shift + P >> Configure Dispaly Language >> en
 
 copy all files in minGW and paste to LLVM
